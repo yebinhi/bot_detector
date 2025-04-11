@@ -1,2 +1,2 @@
 # bot_detector
-detector fake, unreal follower on tiktok and X
+Detector fake, unreal follower on TikTok and X
